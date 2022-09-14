@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atanu Roy from India
 - 👀 I’m interested in Physics, Technology, Python, ML, AI, Web Developemten and offcourse in coading
 - 🌱 I’m currently learning and I will keep on learning till I breath
-- 💞️ I am a passionate programmer so I like bulding new projects
+- 💞️ I am an ELECTRONICS ENGINEER by profession and a PROGRAMMER by passion
 - 📫 You can reach me through my email - ar1995487@gmail.com
 
 <!---
