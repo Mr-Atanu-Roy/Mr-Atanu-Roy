@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working as a freelance web developer<br>🤝 Looking for collaboration to build awesome projects<br>👯‍♀️ I'm looking to get in touch with other developers to learn new things<br>🌱 Currently learning server management<br>💬 Ask me anything about frontend or backend<br>
+🔭 Currently working as a freelance web developer<br>🤝 Looking for collaboration to build awesome projects<br>👯‍♀️ I'm looking to get in touch with other developers to learn new things<br>💬 Ask me anything about frontend or backend and I will try to answer it<br>
 
 
 ## 🌐 Socials:
