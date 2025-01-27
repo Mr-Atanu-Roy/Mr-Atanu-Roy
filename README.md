@@ -3,7 +3,7 @@ Hi there, I'm Atanu 👋
 </h2>
 
 # 💫 About Me:
-👨🏻‍🎓 Currently an UG student<br>👨🏻‍💻 Working as a freelance web developer<br>🤝 Looking for collaboration to build awesome projects<br>👯‍♀️ I'm looking to get in touch with other developers to learn new things<br>💬 Ask me anything about frontend or backend and I will try to answer it<br>📫 How to reach me: https://mratanuroy.me/
+👨🏻‍🎓 Currently an UG student<br>👨🏻‍💻 Working as a freelance web developer<br>🤝 Looking for collaboration to build awesome projects<br>👯‍♀️ I'm looking to get in touch with other developers to learn new things<br>💬 Ask me anything about frontend or backend and I will try to answer it<br>📫 How to reach me: https://mr-atanu-roy.github.io/
 
 
 ## 🌐 Socials:
